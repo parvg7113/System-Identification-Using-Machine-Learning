@@ -1,5 +1,5 @@
 # System-Identification-Using-Machine-Learning
-This is a basic project that  aims to identify governing equation of a simple pendulum using kinematic data.
+This is a basic course project that  aims to identify governing equation of a simple pendulum using kinematic data.
 The following steps are to be followed:
 1. Collect over 1000 data for angluar displacement, angular velocity and angular acceleration from experiments.
 2. Import the data into your program.
